@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_997e7c60e861c27b84df725252c868b860456e49.jar" />
+    </item>
+    <item
+        jar="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_f1ba7701204c99cef8b257140a4bdc8496e695d2.jar" />
+    </item>
+    <item
+        jar="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_a801e507ec23cb93b733bca1dab2e06b2ba2c7f9.jar" />
+    </item>
+    <item
+        jar="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_070f95dcae66584d25caa476dba904b4858d753e.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_b2e6415064ec0e9010342d39baf66d3460dac1fe.jar" />
+    </item>
+    <item
+        jar="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_636901e18e1a2a8e35dc6347d654ce58c349d459.jar" />
+    </item>
+    <item
+        jar="D:\Dimas\Master\Android Mobile\barcode-scanner\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="D:\Dimas\Master\Android Mobile\barcode-scanner\app\build\intermediates\pre-dexed\debug\zbar_9d31cad28ef87b193939f71397e6877b469297a0.jar" />
+    </item>
+
+</items>
